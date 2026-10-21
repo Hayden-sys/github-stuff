@@ -42,6 +42,7 @@ speedCounter.text = "Clock Speed: " + clockSpeed.ToString("P0");
     {
         
     }
+   
     public void Increase()
     {
  
